@@ -9,7 +9,9 @@
   
 		<h2> Call Us : 08479-244262 </h2>
   
-		<h3> Our Ofc Location : Shahpur, Yadgir District, Karnakaka </h3>
+		<h3> Our Ofc Location : Shahpur, Yadgir District </h3>
+	
+	<h1> State: Karnataka, India </h1>
 
 	</body>
 
