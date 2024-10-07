@@ -13,7 +13,7 @@
 	
 	<h1> State: Karnataka (KA), Country: India (IND) </h1>
 
-<h1> We are planning to start Diya Ganji - Software Training Institute in Japan  </h1>
+<h1> We are planning to start Diya Ganji - Software Training Institute in NewDehli  </h1>
 	</body>
 
 </html>
